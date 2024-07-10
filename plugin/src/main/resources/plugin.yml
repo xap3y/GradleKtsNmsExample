@@ -1,0 +1,5 @@
+name: ExamplePlugin
+version: '1.0'
+main: eu.xap3y.example.plugin.Plugin
+api-version: '1.13'
+authors: [ XAP3Y ]
